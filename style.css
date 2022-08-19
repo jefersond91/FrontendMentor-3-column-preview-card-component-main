@@ -13,9 +13,7 @@
 }
 
 body{
-  height: calc(100vh - 1px);
-  border: 2px solid red;
-  
+  height: calc(100vh - 1px);  
 }
 
 .container{
